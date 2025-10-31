@@ -1,0 +1,19 @@
+{
+  "TOKEN": "tokeniniz",
+  "PREFIX": "!",
+  "KOMUTLAR": {
+    "YARDIM": "yardim",
+    "CEVIRI": "ceviri"
+  },
+  "MESAJLAR": {
+    "YETKI_YOK": "Bu komutu kullanmak icin Yonetici yetkisine sahip olmalisiniz.",
+    "CEVIRI_KULLANIM": "Eksik kullanim! Lutfen dogru formatta girin: `{prefix}{komut} <hedef_dil_kodu> <metin>` (Ornek: `!ceviri en merhaba dunya`)",
+    "HATA_GENEL": "Ceviri yapilirken bir hata olustu. Lutfen tekrar deneyin veya komutu kontrol edin.",
+    "HATA_API": "Ceviri servisine baglanilamadi. Lutfen API durumunu kontrol edin."
+  },
+  "EMBEDS": {
+    "YARDIM_BASLIK": "Ceviri Botu Komutlari",
+    "YARDIM_ACIKLAMA": "Bu bot, girilen metinleri farkli dillere hizlica cevirir.",
+    "YARDIM_KULLANIM_BASLIK": "Kullanim"
+  }
+}
